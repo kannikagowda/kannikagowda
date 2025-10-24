@@ -11,7 +11,7 @@
 
 ## 🧭 About Me
 
-```python
+python
 class Developer:
     def __init__(self):
         self.name = "Manasa S"
@@ -23,9 +23,8 @@ class Developer:
 
     def say_hi(self):
         print("Thanks for visiting my profile! 😊")
-````
 
----
+
 
 ## 💡 Currently Learning & 2025 Goals
 
@@ -167,8 +166,5 @@ class Developer:
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding Animation">
 </p>
-```
-
----
 
 
