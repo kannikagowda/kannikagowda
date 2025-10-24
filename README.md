@@ -1,7 +1,5 @@
-
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+${Kannika M Gowda};💻+Full+Stack+Developer;🌐+Open+Source+Contributor;🚀+Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Kannika+M+Gowda;📊+Aspiring+Data+Analyst;💻+Python+Developer;🚀+Tech+Learner+%26+Problem+Solver" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -12,19 +10,19 @@
 
 ## 🧭 About Me
 
-
+```python
 class Developer:
     def __init__(self):
-        http://self.name = "${Kannika M Gowda}"
-        self.role = "Data Analyst"
-        self.language_spoken = ["English", "kannada"]
-        self.location = "${Mysore}"
-        self.learning = ["AI/ML", "FastAPI", "Django REST Framework"]
-        self.interests = ["Web Dev", "Open Source", "Automation"]
+        self.name = "Kannika M Gowda"
+        self.role = "Aspiring Data Analyst"
+        self.language_spoken = ["English", "Kannada"]
+        self.location = "Mysore, India"
+        self.learning = ["Data Visualization", "Machine Learning", "Python for Analytics"]
+        self.interests = ["Data Analysis", "Automation", "Problem Solving"]
 
     def say_hi(self):
-        print("Thanks for visiting my profile!")
-
+        print("Thanks for visiting my profile! 😊")
+```
 
 ---
 
@@ -32,11 +30,11 @@ class Developer:
 
 <div align="center">
 
-|   **Languages**   |    **Frameworks**   |   **Databases**   |   **Tools / IDEs**  |
-| :---------------: | :-----------------: | :---------------: | :-----------------: |
-|     🐍 Python     | 🌐 Django / FastAPI | 💾 MySQL / SQLite |      ⚙️ VSCode      |
-| 🕸️ HTML, CSS, JS |   ⚛️ React (Basic)  |   🗄️ PostgreSQL  |    🧭 Git, GitHub   |
-|  📊 NumPy, Pandas |     🔍 REST APIs    |    ☁️ Firebase    | 🧩 Jupyter Notebook |
+| **Languages** | **Frameworks** | **Databases** | **Tools / IDEs** |
+| :------------: | :-------------: | :------------: | :---------------: |
+| 🐍 Python | 🌐 Flask (Basic) | 💾 MySQL / SQLite | ⚙️ VS Code |
+| 📊 NumPy, Pandas | 🤖 Scikit-learn (Intro) | 🗄️ SQL Queries | 🧭 Git, GitHub |
+| 🕸️ HTML, CSS, JS | 🧠 Machine Learning | ☁️ Firebase (Basic) | 🧩 Jupyter Notebook |
 
 </div>
 
@@ -45,7 +43,7 @@ class Developer:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=${YOUR_USERNAME}&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kannikamgowda&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 ---
@@ -54,50 +52,75 @@ class Developer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=${YOUR_USERNAME}&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=${YOUR_USERNAME}&theme=radical&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=kannikamgowda&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kannikamgowda&theme=radical&hide_border=true" height="160" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${YOUR_USERNAME}&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=${YOUR_USERNAME}&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannikamgowda&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kannikamgowda&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" />
 
 </div>
 
 ---
 
-## 🎨 Projects Dashboard
+## 🎨 Featured Projects
 
-### 🚀 Featured Project — **AI Legal Assistant**
+### 🧠 Cyberbullying Detection (ML + Flask)
+> Built a machine learning model to classify tweets as *bullying* or *non-bullying* using Python, Pandas, and NumPy.  
+> Integrated the model into a Flask web app for real-time cyberbullying detection.
 
-> A Natural Language Processing–powered project that simplifies legal knowledge using TextRank, TF-IDF, and Cosine Similarity.
-
-**Tech Stack:**
-`Python` • `NLTK` • `Gradio` • `PdfPlumber` • `TF-IDF`
+**Tech Stack:**  
+`Python` • `Pandas` • `NumPy` • `Flask` • `Machine Learning`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=${YOUR_USERNAME}&repo=law-edify&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kannikamgowda&repo=cyberbullying-detection&theme=radical&hide_border=true" />
 </p>
+
+---
+
+### 🌾 Farm Management System
+> A system to manage resources, crops, and livestock data efficiently.  
+> Features include inventory tracking, financial analysis, and report generation.
+
+**Tech Stack:**  
+`Python` • `SQLite` • `File Handling` • `Tkinter`
+
+---
+
+## 🧾 Certificates
+
+🎓 **Certified Full Stack Python Training** — Skill Bout (2025)  
+🎓 **Java Workshop** — Qspiders (2024)
 
 ---
 
 ## ⚙️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,react,mysql,sqlite,git,github,vscode,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,sqlite,git,github,vscode,linux&perline=8" />
 </p>
+
+---
+
+## 🎓 Education
+
+🎓 **Bachelor of Engineering (Computer Science)**  
+*Mysuru Royal Institute of Technology* — (2021–2025)
+
+🎓 **Pre-University (PCMB)**  
+*Gnana Ganga PU College* — (2019–2021)
 
 ---
 
 ## 💬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/${YOUR_LINKEDIN}" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:${YOUR_EMAIL}" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/${YOUR_USERNAME}" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://${YOUR_PORTFOLIO}" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"></a>
+  <a href="https://linkedin.com/in/kannikamgowda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:kannikamgowda6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/kannikamgowda" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -118,31 +141,16 @@ class Developer:
 
 ---
 
-## ⚡ Activity Timeline
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Created new project `${PROJECT_NAME}`
-2. ✨ Contributed to open source `${OPEN_SOURCE_PROJECT}`
-3. 🛠️ Fixed bugs in `${REPO_NAME}`
-4. 🚀 Deployed new feature on `${DEPLOYMENT}`
-
-<!--END_SECTION:activity-->
-
----
-
 ## 🌈 Visitor Dashboard
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=${YOUR_USERNAME}&label=Profile+Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=kannikamgowda&label=Profile+Views&color=blueviolet&style=flat-square" />
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile — Happy Coding!</h3>
+<h3 align="center">⭐ Thanks for visiting my profile — Keep Learning, Keep Growing!</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding Animation">
 </p>
-
-<!-- ========================== END OF README ========================== -->
