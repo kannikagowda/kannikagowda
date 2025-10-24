@@ -1,10 +1,4 @@
-Got you babe 😄 — here’s your **complete, all-in-one, copy-paste-ready GitHub Profile README.md** code for **Manasa S** 💻✨
 
-Just copy everything **below from start to end** and paste it directly into your `README.md` file — no breaks, no edits needed (you can replace `manasas` with your actual GitHub username if different).
-
----
-
-````markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Manasa+S;💻+Computer+Science+Engineer;🐍+Python+Developer;🚀+Tech+Learner+%26+Problem+Solver" alt="Typing SVG">
 </h1>
