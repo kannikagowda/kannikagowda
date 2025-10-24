@@ -1,5 +1,4 @@
-````markdown
-<!-- ========================== START OF README ========================== -->
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+${YOUR_NAME};💻+Full+Stack+Developer;🌐+Open+Source+Contributor;🚀+Tech+Enthusiast" alt="Typing SVG">
