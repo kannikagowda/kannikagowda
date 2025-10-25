@@ -11,25 +11,22 @@
 
 ## 🌿 About Me
 
+## 🎯 **Alternative Simple Version** (if the code keeps causing issues):
+
+If you prefer a simpler approach without code formatting:
+
 ## 🌿 About Me
 
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Kannika M Gowda"
-        self.role = "Aspiring Data Analyst"
-        self.location = "Mysore, India"
-        self.current_focus = "Power BI & Data Visualization"
-        self.passion = "Transforming raw data into actionable insights"
-        
-    def skills(self):
-        return ["Python", "Pandas", "NumPy", "Power BI", "Excel", "SQL", "Data Visualization"]
-    
-    def interests(self):
-        return ["Data Storytelling", "Business Intelligence", "Dashboard Design", "ML Applications"]
+**👋 Hello! I'm Kannika M Gowda**
 
-me = DataAnalyst()
----
+- **📍 Location**: Mysore, India
+- **🎯 Role**: Aspiring Data Analyst  
+- **📊 Current Focus**: Power BI & Data Visualization
+- **✨ Passion**: Transforming raw data into actionable insights
+
+**🛠️ Technical Skills**: Python, Pandas, NumPy, Power BI, Excel, SQL, Data Visualization  
+**🎯 Interests**: Data Storytelling, Business Intelligence, Dashboard Design, ML Applications
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -125,4 +122,3 @@ me = DataAnalyst()
 </p>
 ```
 
-#
