@@ -1,11 +1,24 @@
-<h1 align="center">
+<div align="center">
+
+<h1 style="animation: pulse 2s infinite;">
   👋 Hi, I'm Kannika M Gowda
 </h1>
 
-<div align="center">
-  <p>
-    📊 Aspiring Data Analyst • 💡 Learning Power BI • ✨ Data Insights
-  </p>
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="text-align: center;">
+    <div style="font-size: 2em; animation: float 3s ease-in-out infinite;">📊</div>
+    <strong>Aspiring Data Analyst</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="font-size: 2em; animation: float 3s ease-in-out infinite 1s;">💡</div>
+    <strong>Learning Power BI</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="font-size: 2em; animation: float 3s ease-in-out infinite 2s;">✨</div>
+    <strong>Data Insights</strong>
+  </div>
+</div>
+
 </div>
 
 ---
@@ -26,14 +39,14 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 📊 Data Analysis & Visualization
+### 📊 **Data Analysis & Visualization**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 💾 Databases & Tools
+### 💾 **Databases & Tools**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,25 +59,27 @@
 ### 🔍 Cyberbullying Detection System
 *A machine learning web application to detect bullying content in tweets*
 
-- **Tech Stack**: Python • Flask • Pandas • Scikit-learn • NLTK
+- **Tech Stack**: `Python` • `Flask` • `Pandas` • `Scikit-learn` • `NLTK`
 - **Features**: Real-time classification, Web interface, Text preprocessing
 - **Impact**: Demonstrates practical application of ML for social good
 
 ### 🌾 Farm Management System  
 *A desktop application for efficient farm and crop data management*
 
-- **Tech Stack**: Python • Tkinter • SQLite • File Handling
+- **Tech Stack**: `Python` • `Tkinter` • `SQLite` • `File Handling`
 - **Features**: Data entry forms, Crop tracking, Inventory management
 - **Learning**: Database design, GUI development, CRUD operations
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
-  ![Kannika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kannikagowda&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kannikagowda&theme=radical&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannikagowda&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  
+![Kannika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kannikagowda&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kannikagowda&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannikagowda&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
 </div>
 
 ---
@@ -89,10 +104,12 @@
 ## 📫 Let's Connect!
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kannika_M_Gowda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kannikamgowda)
 [![Gmail](https://img.shields.io/badge/Gmail-kannikamgowda6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kannikamgowda6@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kannikagowda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kannikagowda)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
 </div>
 
 ---
@@ -105,7 +122,84 @@
 
 ---
 
-<h3 align="center">
+<h3 align="center" style="color: #00B8D9;">
   "Data is the new oil, and I'm here to refine it into valuable insights." 
 </h3>
-<p align="center"><i>Let's build something amazing with data! 🌟</i></p>
+
+<p align="center">
+  <i>Let's build something amazing with data! 🌟</i>
+</p>
+
+<!-- Animation Styles -->
+<style>
+@keyframes float {
+  0%, 100% { 
+    transform: translateY(0px); 
+  }
+  50% { 
+    transform: translateY(-10px); 
+  }
+}
+
+@keyframes pulse {
+  0%, 100% { 
+    opacity: 1; 
+    transform: scale(1);
+  }
+  50% { 
+    opacity: 0.9; 
+    transform: scale(1.02);
+  }
+}
+
+@keyframes bounce {
+  0%, 100% { 
+    transform: translateY(0); 
+  }
+  50% { 
+    transform: translateY(-10px); 
+  }
+}
+
+@keyframes fadeIn {
+  to { 
+    opacity: 1; 
+  }
+}
+
+.typewriter {
+  overflow: hidden;
+  border-right: 3px solid #00B8D9;
+  white-space: nowrap;
+  animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+
+@keyframes typing {
+  from { 
+    width: 0; 
+  }
+  to { 
+    width: 100%; 
+  }
+}
+
+@keyframes blink-caret {
+  from, to { 
+    border-color: transparent; 
+  }
+  50% { 
+    border-color: #00B8D9; 
+  }
+}
+
+/* Apply animations to elements */
+h1 {
+  color: #2D3748;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+strong {
+  color: #4A5568;
+  font-weight: 600;
+}
+</style>
