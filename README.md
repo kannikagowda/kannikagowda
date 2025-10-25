@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00B8D9&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Kannika+M+Gowda;📊+Aspiring+Data+Analyst;💡+Learning+Power+BI+%26+Data+Visualization;✨+Turning+Data+Into+Meaningful+Insights" alt="Typing SVG">
 </h1>
@@ -10,7 +9,7 @@
 ---
 
 ## 🌿 About Me
-
+python
 class Kannika:
     def __init__(self):
         self.name = "Kannika M Gowda"
@@ -126,7 +125,7 @@ class Kannika:
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding Animation">
 </p>
-```
+
 
 ---
 
