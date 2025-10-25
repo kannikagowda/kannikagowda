@@ -11,7 +11,6 @@
 
 ## 🌿 About Me
 
-```python
 class DataAnalyst:
     def __init__(self):
         self.name = "Kannika M Gowda"
@@ -27,7 +26,6 @@ class DataAnalyst:
         return ["Data Storytelling", "Business Intelligence", "Dashboard Design", "ML Applications"]
 
 me = DataAnalyst()
-```
 
 ---
 
