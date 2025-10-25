@@ -10,7 +10,6 @@
 ---
 
 ## 🌿 About Me
-
 ```python
 class Kannika:
     def __init__(self):
@@ -109,7 +108,7 @@ class Kannika:
 <p align="center">
   <a href="https://linkedin.com/in/kannikamgowda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Kannika%20M%20Gowda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:kannikamgowda6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/kannikamgowda" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/kannikagowda" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -117,7 +116,7 @@ class Kannika:
 ## 🌈 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kannikamgowda&label=Profile+Views&color=00B8D9&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=kannikagowda&label=Profile+Views&color=00B8D9&style=flat-square" />
 </p>
 
 ---
@@ -129,4 +128,5 @@ class Kannika:
 </p>
 ```
 
+---
 
