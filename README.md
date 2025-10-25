@@ -1,14 +1,24 @@
 <div align="center">
 
-<h1 style="background: linear-gradient(45deg, #00B8D9, #0062FF, #00D4FF); background-size: 300% 300%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 3s ease infinite;">
-  👋 Hi, I'm Kannika M Gowda
+<h1>
+  <span style="display: inline-block; animation: bounce 2s infinite;">👋</span>
+  Hi, I'm Kannika M Gowda
 </h1>
 
-<h3>
-  <span style="color: #00B8D9;">📊 Aspiring Data Analyst</span> • 
-  <span style="color: #0062FF;">💡 Learning Power BI</span> • 
-  <span style="color: #00D4FF;">✨ Data Storyteller</span>
-</h3>
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <div style="text-align: center; animation: bounce 2s infinite 0.2s;">
+    <div style="font-size: 24px;">📊</div>
+    <div>Aspiring Data Analyst</div>
+  </div>
+  <div style="text-align: center; animation: bounce 2s infinite 0.4s;">
+    <div style="font-size: 24px;">💡</div>
+    <div>Power BI & Data Viz</div>
+  </div>
+  <div style="text-align: center; animation: bounce 2s infinite 0.6s;">
+    <div style="font-size: 24px;">✨</div>
+    <div>Meaningful Insights</div>
+  </div>
+</div>
 
 </div>
 
