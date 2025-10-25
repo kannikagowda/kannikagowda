@@ -1,14 +1,15 @@
 <div align="center">
 
-<h1>👋 Hi, I'm <span style="color:#00B8D9">Kannika M Gowda</span></h1>
+# 👋 Hi, I'm Kannika M Gowda
 
-**📊 Aspiring Data Analyst** | 
-**💡 Learning Power BI & Data Visualization** | 
-**✨ Turning Data Into Meaningful Insights**
+### 📊 Transforming Data into Actionable Insights
 
-<br>
+<!-- GitHub Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=kannikagowda&show_icons=true&theme=gradient&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kannikagowda&theme=blue-green&hide_border=true" height="165" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00B8D9&lines=Welcome+to+my+GitHub+profile!;Let's+explore+data+together+📈)](https://git.io/typing-svg)
+<!-- Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannikagowda&layout=compact&theme=vision-friendly-dark&hide_border=true" height="165" />
 
 </div>
 <p align="center">
