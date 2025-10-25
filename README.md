@@ -11,6 +11,9 @@
 
 ## 🌿 About Me
 
+## 🌿 About Me
+
+```python
 class DataAnalyst:
     def __init__(self):
         self.name = "Kannika M Gowda"
