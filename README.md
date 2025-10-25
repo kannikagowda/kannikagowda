@@ -1,9 +1,16 @@
-<h1 align="center">
-  <span style="color: #00B8D9;">👋 Hi, I'm Kannika M Gowda</span><br>
-  <span style="color: #2563EB;">📊 Aspiring Data Analyst</span><br>
-  <span style="color: #7C3AED;">💡 Learning Power BI & Data Visualization</span><br>
-  <span style="color: #059669;">✨ Turning Data Into Meaningful Insights</span>
-</h1>
+<div align="center">
+
+<h1>👋 Hi, I'm <span style="color:#00B8D9">Kannika M Gowda</span></h1>
+
+**📊 Aspiring Data Analyst** | 
+**💡 Learning Power BI & Data Visualization** | 
+**✨ Turning Data Into Meaningful Insights**
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00B8D9&lines=Welcome+to+my+GitHub+profile!;Let's+explore+data+together+📈)](https://git.io/typing-svg)
+
+</div>
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
