@@ -1,15 +1,21 @@
 <div align="center">
 
-# 👋 Hi, I'm Kannika M Gowda
-### 📊 Data Analyst | 💡 Visualization Expert | ✨ Insight Seeker
+<h1>
+  <span style="display: inline-block; animation: float 3s ease-in-out infinite;">👋</span>
+  Hi, I'm Kannika M Gowda
+  <span style="display: inline-block; animation: float 3s ease-in-out infinite 0.5s;">🚀</span>
+</h1>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kannikagowda&theme=radical&no-frame=true&row=2&column=4)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kannikagowda&theme=react-dark&bg_color=20232a&hide_border=true)
+<h3>
+  <span style="display: inline-block; animation: float 3s ease-in-out infinite 1s;">📊</span>
+  Aspiring Data Analyst
+  <span style="display: inline-block; animation: float 3s ease-in-out infinite 1.5s;">💡</span>
+  Learning Power BI & Data Visualization
+  <span style="display: inline-block; animation: float 3s ease-in-out infinite 2s;">✨</span>
+  Turning Data Into Meaningful Insights
+</h3>
 
 </div>
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
