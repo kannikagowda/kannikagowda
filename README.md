@@ -10,7 +10,7 @@
 ---
 
 ## 🌿 About Me
-```python
+
 class Kannika:
     def __init__(self):
         self.name = "Kannika M Gowda"
@@ -21,7 +21,7 @@ class Kannika:
 
     def introduce(self):
         print("Hi there 👋 I'm Kannika — passionate about exploring data and learning new analytical tools!")
-````
+
 
 ---
 
