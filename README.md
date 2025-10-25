@@ -1,25 +1,11 @@
-<div align="center">
-
-<h1 style="animation: pulse 2s infinite;">
-  👋 Hi, I'm Kannika M Gowda
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Kannika+M+Gowda;📊+Aspiring+Data+Analyst;💻+Python+Developer;🚀+Tech+Learner+%26+Problem+Solver" alt="Typing SVG">
 </h1>
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 20px 0;">
-  <div style="text-align: center;">
-    <div style="font-size: 2em; animation: float 3s ease-in-out infinite;">📊</div>
-    <strong>Aspiring Data Analyst</strong>
-  </div>
-  <div style="text-align: center;">
-    <div style="font-size: 2em; animation: float 3s ease-in-out infinite 1s;">💡</div>
-    <strong>Learning Power BI</strong>
-  </div>
-  <div style="text-align: center;">
-    <div style="font-size: 2em; animation: float 3s ease-in-out infinite 2s;">✨</div>
-    <strong>Data Insights</strong>
-  </div>
-</div>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-</div>
 
 ---
 
@@ -121,85 +107,3 @@
 </p>
 
 ---
-
-<h3 align="center" style="color: #00B8D9;">
-  "Data is the new oil, and I'm here to refine it into valuable insights." 
-</h3>
-
-<p align="center">
-  <i>Let's build something amazing with data! 🌟</i>
-</p>
-
-<!-- Animation Styles -->
-<style>
-@keyframes float {
-  0%, 100% { 
-    transform: translateY(0px); 
-  }
-  50% { 
-    transform: translateY(-10px); 
-  }
-}
-
-@keyframes pulse {
-  0%, 100% { 
-    opacity: 1; 
-    transform: scale(1);
-  }
-  50% { 
-    opacity: 0.9; 
-    transform: scale(1.02);
-  }
-}
-
-@keyframes bounce {
-  0%, 100% { 
-    transform: translateY(0); 
-  }
-  50% { 
-    transform: translateY(-10px); 
-  }
-}
-
-@keyframes fadeIn {
-  to { 
-    opacity: 1; 
-  }
-}
-
-.typewriter {
-  overflow: hidden;
-  border-right: 3px solid #00B8D9;
-  white-space: nowrap;
-  animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
-}
-
-@keyframes typing {
-  from { 
-    width: 0; 
-  }
-  to { 
-    width: 100%; 
-  }
-}
-
-@keyframes blink-caret {
-  from, to { 
-    border-color: transparent; 
-  }
-  50% { 
-    border-color: #00B8D9; 
-  }
-}
-
-/* Apply animations to elements */
-h1 {
-  color: #2D3748;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-strong {
-  color: #4A5568;
-  font-weight: 600;
-}
-</style>
