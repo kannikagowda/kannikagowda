@@ -1,15 +1,10 @@
 <div align="center">
 
 # 👋 Hi, I'm Kannika M Gowda
+### 📊 Data Analyst | 💡 Visualization Expert | ✨ Insight Seeker
 
-### 📊 Transforming Data into Actionable Insights
-
-<!-- GitHub Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=kannikagowda&show_icons=true&theme=gradient&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kannikagowda&theme=blue-green&hide_border=true" height="165" />
-
-<!-- Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannikagowda&layout=compact&theme=vision-friendly-dark&hide_border=true" height="165" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kannikagowda&theme=radical&no-frame=true&row=2&column=4)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kannikagowda&theme=react-dark&bg_color=20232a&hide_border=true)
 
 </div>
 <p align="center">
