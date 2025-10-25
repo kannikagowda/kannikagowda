@@ -1,24 +1,14 @@
 <div align="center">
 
 <h1>
-  <span style="display: inline-block; animation: bounce 2s infinite;">👋</span>
-  Hi, I'm Kannika M Gowda
+  <span class="typewriter">👋 Hi, I'm Kannika M Gowda</span>
 </h1>
 
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <div style="text-align: center; animation: bounce 2s infinite 0.2s;">
-    <div style="font-size: 24px;">📊</div>
-    <div>Aspiring Data Analyst</div>
-  </div>
-  <div style="text-align: center; animation: bounce 2s infinite 0.4s;">
-    <div style="font-size: 24px;">💡</div>
-    <div>Power BI & Data Viz</div>
-  </div>
-  <div style="text-align: center; animation: bounce 2s infinite 0.6s;">
-    <div style="font-size: 24px;">✨</div>
-    <div>Meaningful Insights</div>
-  </div>
-</div>
+<h3>
+  <span style="opacity: 0; animation: fadeIn 1s ease 1s forwards;">📊 Aspiring Data Analyst</span><br>
+  <span style="opacity: 0; animation: fadeIn 1s ease 2s forwards;">💡 Learning Power BI & Data Visualization</span><br>
+  <span style="opacity: 0; animation: fadeIn 1s ease 3s forwards;">✨ Turning Data Into Meaningful Insights</span>
+</h3>
 
 </div>
 
