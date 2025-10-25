@@ -91,14 +91,14 @@ class Kannika:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kannikamgowda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kannikamgowda&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=kannikagowda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kannikagowda&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannikamgowda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannikagowda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
 
 </div>
 
