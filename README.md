@@ -1,7 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00B8D9&center=true&vCenter=true&width=650&lines=👋+Hi,+I'm+Kannika+M+Gowda;📊+Aspiring+Data+Analyst;💡+Learning+Power+BI+and+Data+Viz;✨+Turning+Data+Into+Meaningful+Insights" alt="Typing Animation">
+  <span style="color: #00B8D9;">👋 Hi, I'm Kannika M Gowda</span><br>
+  <span style="color: #2563EB;">📊 Aspiring Data Analyst</span><br>
+  <span style="color: #7C3AED;">💡 Learning Power BI & Data Visualization</span><br>
+  <span style="color: #059669;">✨ Turning Data Into Meaningful Insights</span>
 </h1>
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
