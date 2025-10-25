@@ -11,12 +11,6 @@
 
 ## 🌿 About Me
 
-## 🎯 **Alternative Simple Version** (if the code keeps causing issues):
-
-If you prefer a simpler approach without code formatting:
-
-## 🌿 About Me
-
 **👋 Hello! I'm Kannika M Gowda**
 
 - **📍 Location**: Mysore, India
