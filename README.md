@@ -35,6 +35,7 @@
 **🛠️ Technical Skills**: Python, Pandas, NumPy, Power BI, Excel, SQL, Data Visualization  
 **🎯 Interests**: Data Storytelling, Business Intelligence, Dashboard Design, ML Applications
 
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -128,25 +129,42 @@
 <p align="center">
   <i>Let's build something amazing with data! 🌟</i>
 </p>
-```
+
+<!-- Animation Styles -->
 <style>
 @keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
+  0%, 100% { 
+    transform: translateY(0px); 
+  }
+  50% { 
+    transform: translateY(-10px); 
+  }
 }
 
 @keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.8; }
+  0%, 100% { 
+    opacity: 1; 
+    transform: scale(1);
+  }
+  50% { 
+    opacity: 0.9; 
+    transform: scale(1.02);
+  }
+}
+
+@keyframes bounce {
+  0%, 100% { 
+    transform: translateY(0); 
+  }
+  50% { 
+    transform: translateY(-10px); 
+  }
 }
 
 @keyframes fadeIn {
-  to { opacity: 1; }
+  to { 
+    opacity: 1; 
+  }
 }
 
 .typewriter {
@@ -157,13 +175,31 @@
 }
 
 @keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
+  from { 
+    width: 0; 
+  }
+  to { 
+    width: 100%; 
+  }
 }
 
 @keyframes blink-caret {
-  from, to { border-color: transparent; }
-  50% { border-color: #00B8D9; }
+  from, to { 
+    border-color: transparent; 
+  }
+  50% { 
+    border-color: #00B8D9; 
+  }
+}
+
+/* Apply animations to elements */
+h1 {
+  color: #2D3748;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+strong {
+  color: #4A5568;
+  font-weight: 600;
 }
 </style>
-
