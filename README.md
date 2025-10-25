@@ -1,14 +1,23 @@
 <div align="center">
 
-<h1>
-  <span class="typewriter">👋 Hi, I'm Kannika M Gowda</span>
+<h1 style="animation: pulse 2s infinite;">
+  👋 Hi, I'm Kannika M Gowda
 </h1>
 
-<h3>
-  <span style="opacity: 0; animation: fadeIn 1s ease 1s forwards;">📊 Aspiring Data Analyst</span><br>
-  <span style="opacity: 0; animation: fadeIn 1s ease 2s forwards;">💡 Learning Power BI & Data Visualization</span><br>
-  <span style="opacity: 0; animation: fadeIn 1s ease 3s forwards;">✨ Turning Data Into Meaningful Insights</span>
-</h3>
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="text-align: center;">
+    <div style="font-size: 2em; animation: float 3s ease-in-out infinite;">📊</div>
+    <strong>Aspiring Data Analyst</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="font-size: 2em; animation: float 3s ease-in-out infinite 1s;">💡</div>
+    <strong>Learning Power BI</strong>
+  </div>
+  <div style="text-align: center;">
+    <div style="font-size: 2em; animation: float 3s ease-in-out infinite 2s;">✨</div>
+    <strong>Data Insights</strong>
+  </div>
+</div>
 
 </div>
 
@@ -120,4 +129,41 @@
   <i>Let's build something amazing with data! 🌟</i>
 </p>
 ```
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.8; }
+}
+
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
+
+.typewriter {
+  overflow: hidden;
+  border-right: 3px solid #00B8D9;
+  white-space: nowrap;
+  animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: #00B8D9; }
+}
+</style>
 
