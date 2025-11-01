@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=120&section=header&text=Welcome%20to%20my%20GitHub!%20🌿&fontSize=30&fontColor=0d1117" />
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" alt="Coding animation">
 </p>
 
 
