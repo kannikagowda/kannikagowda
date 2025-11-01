@@ -6,16 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=120&section=header&text=Welcome%20to%20my%20GitHub!%20🌿&fontSize=30&fontColor=0d1117" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kannikagowda&theme=radical&hide_border=true" alt="activity graph">
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</p>
-
-
-
 ## 🌿 About Me
 
 **👋 Hello! I'm Kannika M Gowda**
