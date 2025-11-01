@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kannikagowda&theme=radical&hide_border=true" alt="activity graph">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </p>
+
 
 
 ## 🌿 About Me
