@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/assets/70915382/7aa492a2-24a2-47cb-bdcb-569d443e64db" width="600" alt="GitHub Skyline">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=120&section=header&text=Welcome%20to%20my%20GitHub!%20🌿&fontSize=30&fontColor=0d1117" />
 </p>
 
 
