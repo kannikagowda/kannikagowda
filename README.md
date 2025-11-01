@@ -91,7 +91,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kannika_M_Gowda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kannikamgowda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kannika_M_Gowda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kannika-m-gowda/)
 [![Gmail](https://img.shields.io/badge/Gmail-kannikamgowda6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kannikamgowda6@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kannikagowda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kannikagowda)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
