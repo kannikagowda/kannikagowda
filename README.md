@@ -3,12 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" alt="Coding animation">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kannikagowda&theme=radical&hide_border=true" alt="activity graph">
 </p>
 
-
-
----
 
 ## 🌿 About Me
 
