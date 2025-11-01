@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/assets/70915382/7aa492a2-24a2-47cb-bdcb-569d443e64db" width="600" alt="GitHub Skyline">
 </p>
+
 
 
 ---
